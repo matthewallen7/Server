@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TafeServer", "TafeServer\TafeServer.csproj", "{AAB0BA6F-AEA8-4A53-AA46-610E9DCFBA6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TafeClient", "TafeClient\TafeClient.csproj", "{664BD722-12DB-482E-8E81-90BA2E851326}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAB0BA6F-AEA8-4A53-AA46-610E9DCFBA6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAB0BA6F-AEA8-4A53-AA46-610E9DCFBA6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAB0BA6F-AEA8-4A53-AA46-610E9DCFBA6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAB0BA6F-AEA8-4A53-AA46-610E9DCFBA6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{664BD722-12DB-482E-8E81-90BA2E851326}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{664BD722-12DB-482E-8E81-90BA2E851326}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{664BD722-12DB-482E-8E81-90BA2E851326}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{664BD722-12DB-482E-8E81-90BA2E851326}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A6509F4-8B3F-4EAB-8164-7DE5C445B538}
+	EndGlobalSection
+EndGlobal
